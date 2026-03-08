@@ -30,3 +30,6 @@
 ## 👀 Profile Views
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=swamy-20)
+## 🐍 My Contribution Snake
+
+![snake gif](https://github.com/swamy-20/snake-animation/blob/output/github-contribution-grid-snake.svg)
