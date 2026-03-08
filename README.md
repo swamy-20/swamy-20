@@ -58,3 +58,14 @@
 ## 📊 3D Contribution Graph
 
 ![](https://github-profile-3d-contrib.vercel.app/api?username=swamy-20&theme=github)
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=swamy-20&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+## 📈 Activity Graph
+
+![Swamy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=swamy-20&theme=react-dark)
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Venkata%20Swamy-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/venkata-swamy-ulasa-947b75337)
+
+[![Email](https://img.shields.io/badge/Email-swamyulasa2005%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:swamyulasa2005@gmail.com)
