@@ -1,35 +1,54 @@
-# Hi 👋 I'm Venkata
+<h1 align="center">Hi 👋, I'm Swamy</h1>
+<h3 align="center">Python Developer | Learning AI & ML</h3>
 
-🎓 Student from India  
-💻 Learning Python & Web Development  
-🤖 Interested in AI and Machine Learning  
+---
+
+## 🚀 About Me
+
+- 🌱 Currently learning **Machine Learning & AI**
+- 💻 I like building **Python Projects**
+- 📚 Exploring **Open Source**
+- 🎯 Goal: Become a **Software Engineer**
+
+---
+
+## 🛠️ Skills
+
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
+![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=swamy-20&show_icons=true&theme=radical)
+![Swamy GitHub stats](https://github-readme-stats.vercel.app/api?username=swamy-20&show_icons=true&theme=tokyonight)
 
 ---
 
-## 💻 Languages
+## 🔥 GitHub Streak
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swamy-20&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com/?user=swamy-20&theme=tokyonight)
 
 ---
 
-## 🚀 Skills
+## 📈 Top Languages
 
-![Python](https://img.shields.io/badge/Python-blue?logo=python)
-![HTML](https://img.shields.io/badge/HTML-orange?logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?logo=css3)
-![Git](https://img.shields.io/badge/Git-red?logo=git)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swamy-20&layout=compact&theme=tokyonight)
+
+---
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/swamy-20/snake-animation/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
 ## 👀 Profile Views
 
-![Visitor Count](https://komarev.com/ghpvc/?username=swamy-20)
-## 🐍 My Contribution Snake
+![Profile Views](https://komarev.com/ghpvc/?username=swamy-20&color=blue)
 
-![snake gif](https://github.com/swamy-20/snake-animation/blob/output/github-contribution-grid-snake.svg)
+---
+
+⭐ From [swamy-20](https://github.com/swamy-20)
