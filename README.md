@@ -30,12 +30,6 @@
 
 ---
 
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=swamy-20&theme=tokyonight)
-
----
-
 ## 📈 Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swamy-20&layout=compact&theme=tokyonight)
