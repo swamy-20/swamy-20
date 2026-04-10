@@ -2,7 +2,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?color=00F700&size=30&center=true&vCenter=true&width=600&lines=Hi+I'm+Swamy;Python+Developer;AI+ML+Learner" />
 </p>
 <h1 align="center">Hi 👋, I'm Swamy</h1>
-<h3 align="center">Python Developer | Learning AI & ML</h3>
+<h3 align="center">Python Developer | Learning DS & ML</h3>
 
 ---
 
