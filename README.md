@@ -8,10 +8,10 @@
 
 ## 🚀 About Me
 
-- 🌱 Currently learning **Machine Learning & AI**
+- 🌱 Currently learning **Machine Learning & DS**
 - 💻 I like building **Python Projects**
 - 📚 Exploring **Open Source**
-- 🎯 Goal: Become a **Software Engineer**
+  
 
 ---
 
