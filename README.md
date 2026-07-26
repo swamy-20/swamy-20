@@ -51,7 +51,6 @@
 
 ---
 
-
 ![](https://github-profile-trophy.vercel.app/?username=swamy-20&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 ## 📈 Activity Graph
 
