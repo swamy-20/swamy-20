@@ -46,8 +46,11 @@
 
 ## 📊 GitHub Stats
 
-![Swamy GitHub stats](https://github-readme-stats.vercel.app/api?username=swamy-20&show_icons=true&theme=tokyonight)
+![Swamy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=swamy-20&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swamy-20&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=swamy-20&theme=tokyonight&hide_border=true)
 ---
 
 ## 📈 Top Languages
