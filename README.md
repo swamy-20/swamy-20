@@ -57,11 +57,6 @@
 
 ---
 
-⭐ From [swamy-20](https://github.com/swamy-20)
-## 📊 3D Contribution Graph
-
-![](https://github-profile-3d-contrib.vercel.app/api?username=swamy-20&theme=github)
-## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=swamy-20&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 ## 📈 Activity Graph
