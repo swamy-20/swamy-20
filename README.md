@@ -10,11 +10,13 @@
 
 ## 🚀 About Me
 
-- 🌱 Currently learning **Machine Learning & DS**
-- 💻 I like building **Python Projects**
-- 📚 Exploring **Open Source**
-  
-
+- 🎓 B.Tech CSE (Data Science) student at **SRM Institute of Science and Technology**
+- 🌱 Currently learning **Machine Learning, Data Science & Backend Development**
+- 💻 Building **Python, Machine Learning, and Data Analytics** projects
+- 📊 Skilled in **Python, SQL, Power BI, Pandas, NumPy & Scikit-learn**
+- 🚀 Passionate about solving real-world problems with AI and data
+- 🌍 Exploring **Open Source** and continuously improving my development skills
+- 🤝 Open to **Internships** and collaboration on impactful projects
 ---
 
 ## 🛠️ Skills
