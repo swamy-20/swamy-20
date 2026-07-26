@@ -51,12 +51,6 @@
 
 ---
 
-## 👀 Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=swamy-20&color=blue)
-
----
-
 
 ![](https://github-profile-trophy.vercel.app/?username=swamy-20&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 ## 📈 Activity Graph
@@ -67,3 +61,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Venkata%20Swamy-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/venkata-swamy-ulasa-947b75337)
 
 [![Email](https://img.shields.io/badge/Email-swamyulasa2005%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:swamyulasa2005@gmail.com)
+
+---
+
+## 👀 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=swamy-20&color=blue)
+
+---
