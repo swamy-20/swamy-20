@@ -1,8 +1,10 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=00F700&size=30&center=true&vCenter=true&width=600&lines=Hi+I'm+Swamy;Python+Developer;AI+ML+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Swamy;Python+Developer;Data+Science+%26+Machine+Learning+Learner" />
 </p>
+
 <h1 align="center">Hi 👋, I'm Swamy</h1>
-<h3 align="center">Python Developer | Learning DS & ML</h3>
+
+<h3 align="center">Python Developer | Data Science & Machine Learning Learner</h3>
 
 ---
 
